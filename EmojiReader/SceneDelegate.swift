@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  EmojiReader
 //
-//  Created by Кот on 03.11.2021.
+//  Created by Vitaly Khryapin on 03.11.2021.
 //
 
 import UIKit
